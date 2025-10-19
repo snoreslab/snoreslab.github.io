@@ -29,7 +29,10 @@ github_username:  jekyll
 
 # Build settings
 #theme: minima
-theme: just-the-docs
+#theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+repository: snoreslab.github.io
 
 plugins:
   - jekyll-feed
